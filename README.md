@@ -51,7 +51,7 @@ Personal project to practice .NET MVC, GitHub workflows, and backend development
 ---
 
 ## 💬 Let’s Connect
-- [LinkedIn]([)](https://www.linkedin.com/in/liam-brooks13/)  
+- [LinkedIn](https://www.linkedin.com/in/liam-brooks13/)  
 - [GitHub](https://github.com/Lbrooks13)
 
 ---
